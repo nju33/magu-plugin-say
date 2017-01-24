@@ -1,0 +1,3 @@
+<say>
+aiueo
+</say>
